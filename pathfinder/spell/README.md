@@ -1,0 +1,1 @@
+These are collected spells that instruct you in how to build and use the spell in the game and what scripts to apply.

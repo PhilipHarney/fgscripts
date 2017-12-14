@@ -1,0 +1,1 @@
+These are collected items that instruct you in how to build and use the item in the game and what scripts to apply.
