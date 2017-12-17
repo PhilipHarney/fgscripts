@@ -1,4 +1,4 @@
-#SMITE EVIL
+##SMITE EVIL
 
 To simulate the Paladin Smite Evil, I have created the following **three** effects. All of these should ideally be set up as ***Actions*** in the character sheet so that they work as intended with the minimum of manual intervention required.
 
