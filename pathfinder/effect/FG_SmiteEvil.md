@@ -4,18 +4,27 @@
 To simulate the Paladin Smite Evil, I have created the following **three** effects. All of these should ideally be set up as ***Actions*** in the character sheet so that they work as intended with the minimum of manual intervention required.
 
 **Effect 1: Standard Smite**
+
 *Target:* Self
+
 *Action:* All
+
 *Effect Text:* `Smite Evil; IFT:ALIGN(evil); ATK: [CHA]; AC: [CHA] deflection; DMG: 5;`
 
 **Effect 2: Bonus Damage vs. Specials**
+
 *Target:* Self
+
 *Action:* Roll
+
 *Effect Text:*	`Smite Special; IFT:TYPE(undead, dragon, outsider); IFT:ALIGN(evil); DMG: 5;`
 
 **Effect 3: Ignore DR**
+
 *Target:* Self
+
 *Action:* All
+
 *Effect Text:*	`Smite DR; DMGTYPE:spell;`
 
 ## How to Use
