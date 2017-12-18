@@ -1,0 +1,1 @@
+Rage;STR:4 morale;CON:4 morale;AC:-2;SAVE: 2 morale will;

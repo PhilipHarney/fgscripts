@@ -1,0 +1,1 @@
+Rage;DMG:2 melee;ATK:2 melee;AC:-2;SAVE: 2 morale will;
