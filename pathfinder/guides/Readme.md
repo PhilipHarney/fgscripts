@@ -1,4 +1,4 @@
-# Targetting
+# Targetting 101
 Targetting in FG can be a very useful and time-saving activity. It allows you to apply effects easily, or to ensure that abilities only function for the relevant opponent.
 
 Unfortunately, actually figuring out how targetting works or how to use it are not all that intuitive - which is complicated by there being multiple ways of doing it. 
