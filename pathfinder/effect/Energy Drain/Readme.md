@@ -1,4 +1,4 @@
-# BLESS WEAPON
+# ENERGY DRAIN
 
 Some attacks and spells inflict negative levels on a character. The below effect should make this easier to apply.  
 
