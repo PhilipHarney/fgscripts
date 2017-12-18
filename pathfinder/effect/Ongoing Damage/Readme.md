@@ -23,3 +23,5 @@ FantasyGrounds allows you to model this so that you don't have to manually keep 
 2. Ensure the effect has the correct intended duration (e.g. 3 rounds)
 3. Apply effect to target
 
+The available damage types are as follows:
+- acid- cold- electricity- fire- sonic- force- negative- positive- adamantine- bludgeoning- cold iron- epic- magic- piercing- silver- slashing- chaotic- evil- good- lawful- nonlethal- spell

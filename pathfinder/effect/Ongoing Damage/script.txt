@@ -1,0 +1,7 @@
+On Fire!; DMGO: 1d6 fire;
+
+
+Bleeding; DMGO: 4;
+
+
+Bleeding; DMGO: 2d4 acid;

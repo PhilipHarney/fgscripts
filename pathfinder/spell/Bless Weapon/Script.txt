@@ -1,0 +1,1 @@
+Bless Weapon; IFT:ALIGN(evil);CC:100;

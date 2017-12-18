@@ -1,0 +1,5 @@
+Smite Evil; IFT:ALIGN(evil); ATK: [CHA]; AC: [CHA] deflection; DMG: 5;
+
+Smite Special; IFT:TYPE(undead, dragon, outsider); IFT:ALIGN(evil); DMG: 5;
+
+Smite DR; DMGTYPE:spell;
