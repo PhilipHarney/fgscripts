@@ -1,7 +1,7 @@
 # Protection from Evil
 The below effect should ideally be added as a Spell Action (Effect) to the *Actions* area of the character sheet. This will allow it to have the correct duration. 
 
-**BLESS WEAPON**
+**Protection from Evil**
 
 *Target:* Target
 
