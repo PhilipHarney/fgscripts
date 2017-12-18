@@ -1,0 +1,1 @@
+Fav Enemy(Humans); IFT:TYPE(human); ATK:2;DMG:2;
