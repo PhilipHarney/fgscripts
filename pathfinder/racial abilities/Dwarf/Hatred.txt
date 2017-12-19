@@ -1,0 +1,1 @@
+Hatred; IFT:TYPE(goblinoid,orc);ATK:1 racial;

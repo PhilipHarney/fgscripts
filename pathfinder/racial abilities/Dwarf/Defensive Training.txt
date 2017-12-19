@@ -1,0 +1,1 @@
+Defensive Training; IFT:TYPE(giant); AC: 4 dodge;
