@@ -1,0 +1,1 @@
+Bestow Grace; IF:ALIGN(good);SAVE: 2 sacred;
