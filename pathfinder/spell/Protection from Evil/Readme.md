@@ -9,7 +9,7 @@ The below effect should ideally be added as a Spell Action (Effect) to the *Acti
 
 *Duration:* Caster Level (CL) in minutes (MIN). 10 times this for Circle of Protection.
 
-*Effect Text:* `Protection from Evil; IFT(evil); AC:2 deflection; SAVE: 2 resistance; Immune to mental control;`
+*Effect Text:* `Protection from Evil; IFT:ALIGN(evil); AC:2 deflection; SAVE: 2 resistance; Immune to mental control;`
 
 ## How to use
 - When casting the spell, apply the effect to any relevant targets. 
